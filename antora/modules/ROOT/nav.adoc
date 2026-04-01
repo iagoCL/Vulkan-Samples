@@ -41,6 +41,7 @@
 ** xref:samples/api/terrain_tessellation/README.adoc[Terrain tessellation]
 *** xref:samples/api/hpp_terrain_tessellation/README.adoc[Terrain tessellation (Vulkan-Hpp)]
 ** xref:samples/api/texture_loading/README.adoc[Texture loading]
+** xref:samples/api/fill_buffer_linear_image/README.adoc[Fill buffer into a linear image]
 *** xref:samples/api/hpp_texture_loading/README.adoc[Texture loading (Vulkan-Hpp)]
 ** xref:samples/api/texture_mipmap_generation/README.adoc[Texture mipmap generation]
 *** xref:samples/api/hpp_texture_mipmap_generation/README.adoc[Texture mipmap generation (Vulkan-Hpp)]

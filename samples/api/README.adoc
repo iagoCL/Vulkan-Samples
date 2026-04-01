@@ -111,6 +111,10 @@ Uses a tessellation shader for rendering a terrain with dynamic level-of-detail 
 
 Loading and rendering of a 2D texture map from a file.
 
+=== xref:./{api_samplespath}fill_buffer_linear_image/README.adoc[Fill buffer into a linear image]
+
+Educational sample that shows how to pack a `glm::vec3` grid into `uint32_t` fill words, write them into aliased linear image memory with `vkCmdFillBuffer`, and copy the result to the swapchain.
+
 === xref:./{api_samplespath}texture_mipmap_generation/README.adoc[Texture run-time mip-map generation]
 
 Generates a complete mip-chain for a texture at runtime instead of loading it from a file.

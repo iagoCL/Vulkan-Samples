@@ -1,0 +1,5 @@
+= Fill buffer into a linear image
+
+This sample is an educational walkthrough designed as an April 1st joke.
+
+It shows how to alias a buffer to an image and write the image usign `vkCmdFillBuffer`

@@ -53,6 +53,7 @@ set(ORDER_LIST
     "hello_triangle_1_3"
     "dynamic_uniform_buffers"
     "texture_loading"
+    "fill_buffer_linear_image"
     "hdr"
     "instancing"
     "compute_nbody"
